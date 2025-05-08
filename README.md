@@ -1,4 +1,4 @@
-
+![Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif) 
 <h1 align="center">Hi 👋, I'm Prachi Sharma</h1>
 <h3 align="center">A passionate frontend Engineer from India</h3>
 <img align="right" width="400" alt="coding girl" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J4aTh6bWs5MHc4MWdjOTRsdGY4NWlzenFrYmV2MjkwNThwNml4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
